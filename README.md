@@ -1,2 +1,3 @@
 # HR-Management-system-
- The project involves developing a GUI-based Human Resource Management System for Trafalgar Tours (Pty) Ltd to address challenges in managing employee data and daily HR operations. 
+ The project involves developing a GUI-based Human Resource Management System for Trafalgar Tours (Pty) Ltd to address challenges in managing employee data and daily HR operations. The system will allow adding, updating, searching, and displaying employee details, including gross salaries and gender-based filtering. It will utilize Object-Oriented Programming (OOP) principles such as inheritance, polymorphism, and encapsulation to ensure modularity and maintainability. The project requires testing with a self-created dataset and documenting the system's functionality, challenges, and potential future improvements, with an emphasis on adhering to plagiarism guidelines and Turnitin submission requirements.
+ 
